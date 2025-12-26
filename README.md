@@ -1,5 +1,5 @@
 # Fraud Detection Using Machine Learning
-
+![Fraud Detection](https://github.com/AgasthiDoshi/OIBSIP_DataAnalytics_Task7/blob/main/20251226_1307_Data%20Analytics%20Presentation_simple_compose_01kdcsc7fnfcqs9jzmbf1mjhhw.png)
 ## Project Objective
 The objective of this project is to detect fraudulent financial
 transactions using machine learning techniques. The project focuses
